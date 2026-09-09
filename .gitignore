@@ -1,0 +1,5 @@
+*.class*
+*.java.orig
+
+.DS_STORE
+a.out
