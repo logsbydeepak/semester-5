@@ -38,3 +38,15 @@ class DecisionMaking {
     sc.close();
   }
 }
+
+/*
+Output:
+
+Enter a, b: 5 10
+10 is larger
+Enter n: 7
+Odd
+Enter a, b, c: 3 9 6
+9 is the largest number.
+
+*/

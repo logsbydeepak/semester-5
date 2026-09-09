@@ -78,3 +78,20 @@ int main() {
 
   return 0;
 }
+
+/*
+ * Output:
+ *
+ * Enter number of elements to insert: 5
+ * Enter element 1: 8
+ * Enter element 2: 3
+ * Enter element 3: 10
+ * Enter element 4: 1
+ * Enter element 5: 6
+ * Heap: 1 3 10 8 6
+ * Extracted min: 1
+ * Heap: 3 6 10 8
+ * After inserting 2:
+ * Heap: 2 3 10 8 6
+ *
+ */

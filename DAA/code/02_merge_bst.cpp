@@ -96,3 +96,18 @@ int main() {
 
   return 0;
 }
+
+/*
+ * Output:
+ *
+ * Enter number of elements in first BST: 3
+ * Enter element 1: 5
+ * Enter element 2: 2
+ * Enter element 3: 8
+ * Enter number of elements in second BST: 3
+ * Enter element 1: 6
+ * Enter element 2: 1
+ * Enter element 3: 9
+ * Inorder traversal of merged BST: 1 2 5 6 8 9
+ *
+ */

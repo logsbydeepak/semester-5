@@ -35,3 +35,20 @@ class OperatorsExpressions {
     sc.close();
   }
 }
+
+/*
+ * Output:
+ *
+ * Enter length: 5
+ * Enter breadth: 4
+ * Area: 20.0
+ * 41
+ * true
+ * 51
+ * 0
+ * Enter a number: 123
+ * 3
+ * 2
+ * 1
+ *
+ */

@@ -62,3 +62,31 @@ class LoopingStatements {
     sc.close();
   }
 }
+
+/*
+ * Output:
+ *
+ * Enter a number: 123
+ * Sum of digits: 6
+ * Enter n: 5
+ * 0
+ * 1
+ * 1
+ * 2
+ * 3
+ * Enter limit: 1000
+ * 1
+ * 2
+ * 3
+ * 4
+ * 5
+ * 6
+ * 7
+ * 8
+ * 9
+ * 153
+ * 370
+ * 371
+ * 407
+ *
+ */
