@@ -27,3 +27,10 @@
 ## 5. Arrays Basic [program](./5/ArraysBasic.java)
 1. Find the Largest and Smallest Element in an Array
 2. Perform Matrix Addition
+
+## 6. Inheritance [program](./6/Player.java)
+1. Write a Java program to create a Player class and inherit three classes Cricket_Player, Football_Player and Hockey_Player.
+
+## 7. Interfaces 
+1. To write a Java program to show how a class implements two interfaces. [program](./7/MultipleInterfaces.java)
+2. To write a Java program to show that the variables in an interface are implicitly static and final and methods are automatically public. [program](./7/InterfaceFields.java)
