@@ -34,3 +34,10 @@
 ## 7. Interfaces 
 1. To write a Java program to show how a class implements two interfaces. [program](./7/MultipleInterfaces.java)
 2. To write a Java program to show that the variables in an interface are implicitly static and final and methods are automatically public. [program](./7/InterfaceFields.java)
+
+## 8. Exception Handling
+1. To write a Java program to catch more than two exceptions. [program](./8/MultipleExceptions.java)
+2. To write a Java program to create our exception subclass that throws exception if the sum of two integers is greater than 99 [program](./8/CustomException.java)
+
+## 9. Multithreading [program](./9/Multithreading.java)
+1. To write a Java program for generating two threads, one for generating even number and one for generating odd number.
