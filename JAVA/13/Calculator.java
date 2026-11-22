@@ -61,11 +61,3 @@ public class Calculator extends Applet implements ActionListener {
     }
   }
 }
-
-/*
- * Run: appletviewer Calculator.java
- *
- * Output: entering 12 and 4 and pressing + - * / shows
- * Result: 16.0, 8.0, 48.0 and 3.0 respectively.
- *
- */

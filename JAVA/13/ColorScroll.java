@@ -37,11 +37,3 @@ public class ColorScroll extends Applet implements AdjustmentListener {
     g.drawString("R=" + red.getValue() + " G=" + green.getValue() + " B=" + blue.getValue(), 50, 20);
   }
 }
-
-/*
- * Run: appletviewer ColorScroll.java
- *
- * Output: a rectangle whose colour changes as the red, green and blue
- * scroll bars are moved.
- *
- */
