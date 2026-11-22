@@ -19,17 +19,17 @@ class Strings {
 
   public static void main(String[] args) {
     Strings s = new Strings();
-    s.analyse("Deepak Kumar");
+    s.analyse("Bhavya");
   }
 }
 
 /*
  * Output:
  *
- * Name: Deepak Kumar
- * Length: 12
- * 'a' found at index 4
- * 'a' found at index 10
+ * Name: Bhavya
+ * Length: 6
+ * 'a' found at index 2
+ * 'a' found at index 5
  * 'a' appears 2 time(s)
  *
  */
