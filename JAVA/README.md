@@ -57,4 +57,9 @@
 
 ## 13. Applets & AWT
 1. Write a Java applet program to change the colour of a rectangle using scroll bars to change the value of red, green and blue. [program](./13/ColorScroll.java)
+
+   ![ColorScroll output showing a pink rectangle with RGB values 255, 130, and 210](./13/ColorScroll-output.png)
+
 2. Write an applet program for creating a simple calculator to perform addition, subtraction, multiplication and division using Button, Label and TextField components. [program](./13/Calculator.java)
+
+   ![Calculator output showing 12 plus 4 with a result of 16.0](./13/Calculator-output.png)
