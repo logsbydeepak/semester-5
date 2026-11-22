@@ -52,7 +52,7 @@
 2. Write a Java program to create a StringBuffer object and illustrate how to insert characters at the beginning. [program](./11/StringBufferInsert.java)
 3. Write a Java program to create a StringBuffer object and illustrate the operations of the `append()` and `reverse()` methods. [program](./11/StringBufferReverse.java)
 
-## 12. Packages [program](./12/BookDetails.java)
+## 12. Packages [BookDetails.java](./12/BookDetails.java) · [books/Book.java](./12/books/Book.java)
 1. Write a Java program to create a package for Book details, giving Book name, Author name, Price and Year of publishing.
 
 ## 13. Applets & AWT
