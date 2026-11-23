@@ -15,7 +15,6 @@ Computer Graphics lab programs (Turbo C `graphics.h`). Each program links to its
 - Ex 11 - 9
 - Ex 12 - 10
 - Ex 13 - 11
-- Ex 14 - 12
 
 ## Contents
 
@@ -30,7 +29,6 @@ Computer Graphics lab programs (Turbo C `graphics.h`). Each program links to its
 9. [Three Dimensional Transformations](#9-three-dimensional-transformations)
 10. [Curve Generation](#10-curve-generation)
 11. [Simple Animations using transformations](#11-simple-animations-using-transformations)
-12. [Key Frame Animation](#12-key-frame-animation)
 
 ## 1. Digital Differential Analyzer Algorithm
 
@@ -201,10 +199,6 @@ Bezier curve: [program](./code/10-bezier-curve.c)
 Moving circle in different directions: [program](./code/11-moving-circle.c)
 
 ![Moving circle 1](./output/11-moving-circle-1.png) ![Moving circle 2](./output/11-moving-circle-2.png) ![Moving circle 3](./output/11-moving-circle-3.png) ![Moving circle 4](./output/11-moving-circle-4.png)
-
-## 12. Key Frame Animation
-
-Done in Adobe Flash Professional (timeline and key frames); there is no C program for this one.
 
 ## Running in DOSBox
 
