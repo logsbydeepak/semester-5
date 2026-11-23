@@ -2,20 +2,20 @@
 
 Computer Graphics lab programs (Turbo C `graphics.h`). Each program links to its source in [`code`](./code) and shows its output from [`output`](./output).
 
-Ex 1 - 1
-Ex 2 - 2
-Ex 3 - 3
-Ex 4 - 4
-Ex 5- 5
-Ex 6 - 6A
-Ex 7 - 6B
-Ex 8 - 7A
-Ex 9 - 7B
-Ex 10 - 8
-Ex 11 - 9
-Ex 12 - 10
-Ex 13 - 11
-Ex 14 - 12
+- Ex 1 - 1
+- Ex 2 - 2
+- Ex 3 - 3
+- Ex 4 - 4
+- Ex 5- 5
+- Ex 6 - 6A
+- Ex 7 - 6B
+- Ex 8 - 7A
+- Ex 9 - 7B
+- Ex 10 - 8
+- Ex 11 - 9
+- Ex 12 - 10
+- Ex 13 - 11
+- Ex 14 - 12
 
 ## Contents
 
