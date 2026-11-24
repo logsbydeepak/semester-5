@@ -11,8 +11,8 @@ Computer Graphics lab programs (Turbo C `graphics.h`). Each program links to its
 - Ex 7 - 6B
 - Ex 8 - 7A
 - Ex 9 - 7B
-- Ex 10 - 8
-- Ex 11 - 9
+- Ex 10 - 8 (A)
+- Ex 11 - 9 (A)
 - Ex 12 - 10
 - Ex 13 - 11
 
